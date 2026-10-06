@@ -1,5 +1,7 @@
 # Intilaqa / انطلاقة
 
+[Live app on Vercel](https://intilaqa-six.vercel.app)
+
 Intilaqa is a bilingual HRMS platform for managing the relationship between admins, clients, companies, and employees. It combines role-based dashboards, attendance, requests, documents, payroll, tasks, notifications, reports, and configurable branding in one Arabic and English experience.
 
 ## Highlights
