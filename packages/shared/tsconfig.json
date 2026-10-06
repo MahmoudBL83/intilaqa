@@ -1,0 +1,4 @@
+{
+  "extends": "@intilaqa/tsconfig/base.json",
+  "include": ["src"]
+}

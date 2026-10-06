@@ -1,0 +1,4 @@
+{
+  "extends": "@intilaqa/tsconfig/react-library.json",
+  "include": ["src"]
+}

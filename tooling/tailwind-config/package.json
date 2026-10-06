@@ -1,0 +1,13 @@
+{
+  "name": "@intilaqa/tailwind-config",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./tailwind.config.ts"
+  },
+  "devDependencies": {
+    "@intilaqa/tsconfig": "workspace:*",
+    "tailwindcss": "^3.4.17"
+  }
+}

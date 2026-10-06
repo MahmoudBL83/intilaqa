@@ -1,0 +1,1052 @@
+[
+  {
+    "key": "totalEmployees",
+    "arValue": "إجمالي الموظفين",
+    "isObject": false
+  },
+  {
+    "key": "saudiPercentage",
+    "arValue": "نسبة التوطين",
+    "isObject": false
+  },
+  {
+    "key": "nitaqatColors",
+    "arValue": "توزيع نطاقات",
+    "isObject": false
+  },
+  {
+    "key": "contractExpiryAlerts",
+    "arValue": "تنبيهات انتهاء العقود",
+    "isObject": false
+  },
+  {
+    "key": "companiesProcessed",
+    "arValue": "الشركات المُعالجة",
+    "isObject": false
+  },
+  {
+    "key": "activeAttendance",
+    "arValue": "نسبة الحضور النشط",
+    "isObject": false
+  },
+  {
+    "key": "payrollStatus",
+    "arValue": "حالة الرواتب",
+    "isObject": false
+  },
+  {
+    "key": "staffOnLeave",
+    "arValue": "الموظفون في إجازة",
+    "isObject": false
+  },
+  {
+    "key": "totalClients",
+    "arValue": "إجمالي العملاء",
+    "isObject": false
+  },
+  {
+    "key": "totalCompanies",
+    "arValue": "إجمالي الشركات",
+    "isObject": false
+  },
+  {
+    "key": "activeSubscriptions",
+    "arValue": "الاشتراكات النشطة",
+    "isObject": false
+  },
+  {
+    "key": "reviewAll",
+    "arValue": "مراجعة الكل",
+    "isObject": false
+  },
+  {
+    "key": "newReport",
+    "arValue": "تقرير جديد",
+    "isObject": false
+  },
+  {
+    "key": "plan",
+    "arValue": "الخطة",
+    "isObject": false
+  },
+  {
+    "key": "nearDeadline",
+    "arValue": "قرب الموعد النهائي",
+    "isObject": false
+  },
+  {
+    "key": "renew",
+    "arValue": "تجديد",
+    "isObject": false
+  },
+  {
+    "key": "review",
+    "arValue": "مراجعة",
+    "isObject": false
+  },
+  {
+    "key": "usage",
+    "arValue": "نسبة الاستخدام",
+    "isObject": false
+  },
+  {
+    "key": "subscriptionPlan",
+    "arValue": "خطة الاشتراك",
+    "isObject": false
+  },
+  {
+    "key": "yourCompanies",
+    "arValue": "شركاتك",
+    "isObject": false
+  },
+  {
+    "key": "startDate",
+    "arValue": "تاريخ البدء",
+    "isObject": false
+  },
+  {
+    "key": "myTasks",
+    "arValue": "مهامي",
+    "isObject": false
+  },
+  {
+    "key": "lastPayslip",
+    "arValue": "آخر قسيمة راتب",
+    "isObject": false
+  },
+  {
+    "key": "checkIn",
+    "arValue": "تسجيل حضور",
+    "isObject": false
+  },
+  {
+    "key": "checkOut",
+    "arValue": "تسجيل انصراف",
+    "isObject": false
+  },
+  {
+    "key": "requestLeave",
+    "arValue": "طلب إجازة",
+    "isObject": false
+  },
+  {
+    "key": "viewPayslip",
+    "arValue": "عرض قسيمة الراتب",
+    "isObject": false
+  },
+  {
+    "key": "updateInfo",
+    "arValue": "تحديث البيانات",
+    "isObject": false
+  },
+  {
+    "key": "task",
+    "arValue": "المهمة",
+    "isObject": false
+  },
+  {
+    "key": "dueDate",
+    "arValue": "تاريخ الاستحقاق",
+    "isObject": false
+  },
+  {
+    "key": "createAndManageTeamMembers",
+    "arValue": "إنشاء وإدارة أعضاء فريقك في المؤسسة",
+    "isObject": false
+  },
+  {
+    "key": "currentState",
+    "arValue": "الحالة الحالية",
+    "isObject": false
+  },
+  {
+    "key": "currentEmployees",
+    "arValue": "الموظفون الحاليون",
+    "isObject": false
+  },
+  {
+    "key": "enterCurrentNumbers",
+    "arValue": "أدخل أعداد الموظفين الحاليين",
+    "isObject": false
+  },
+  {
+    "key": "hirePlan",
+    "arValue": "خطة التوظيف",
+    "isObject": false
+  },
+  {
+    "key": "projectNewHires",
+    "arValue": "توقع التوظيفات الجديدة ورقياتهم",
+    "isObject": false
+  },
+  {
+    "key": "saudiHires",
+    "arValue": "التوظيفات السعودية",
+    "isObject": false
+  },
+  {
+    "key": "expatHires",
+    "arValue": "التوظيفات الوافدة",
+    "isObject": false
+  },
+  {
+    "key": "totalNewHires",
+    "arValue": "إجمالي التوظيفات الجديدة",
+    "isObject": false
+  },
+  {
+    "key": "calculate",
+    "arValue": "حساب التأثير",
+    "isObject": false
+  },
+  {
+    "key": "projectedOutcome",
+    "arValue": "النتيجة المتوقعة",
+    "isObject": false
+  },
+  {
+    "key": "impact",
+    "arValue": "تأثير التوطين",
+    "isObject": false
+  },
+  {
+    "key": "totalForecast",
+    "arValue": "توقعات القوى العاملة الإجمالية",
+    "isObject": false
+  },
+  {
+    "key": "adjustInputsAboveAndClickCalculate",
+    "arValue": "اضبط المدخلات أعلاه وانقر على الحساب لرؤية التأثير على نسبة التوطين",
+    "isObject": false
+  },
+  {
+    "key": "compliant",
+    "arValue": "متوافق",
+    "isObject": false
+  },
+  {
+    "key": "belowTarget",
+    "arValue": "دون الهدف",
+    "isObject": false
+  },
+  {
+    "key": "uploadNewDocument",
+    "arValue": "تحميل مستند جديد",
+    "isObject": false
+  },
+  {
+    "key": "addDocumentToWallet",
+    "arValue": "أضف المستندات المهمة إلى محفظتك الشخصية",
+    "isObject": false
+  },
+  {
+    "key": "dragDropFiles",
+    "arValue": "اسحب وأفلت الملفات هنا",
+    "isObject": false
+  },
+  {
+    "key": "orClickToSelect",
+    "arValue": "أو انقر لتحديد الملفات",
+    "isObject": false
+  },
+  {
+    "key": "selectType",
+    "arValue": "اختر نوع المستند",
+    "isObject": false
+  },
+  {
+    "key": "uploadDocument",
+    "arValue": "تحميل المستند",
+    "isObject": false
+  },
+  {
+    "key": "myDocuments",
+    "arValue": "مستنداتي",
+    "isObject": false
+  },
+  {
+    "key": "noDocuments",
+    "arValue": "لم يتم تحميل أي مستندات حتى الآن",
+    "isObject": false
+  },
+  {
+    "key": "startUploadingDocuments",
+    "arValue": "ابدأ بتحميل مستنداتك المهمة للحفاظ عليها منظمة وسهلة الوصول",
+    "isObject": false
+  },
+  {
+    "key": "documentName",
+    "arValue": "اسم المستند",
+    "isObject": false
+  },
+  {
+    "key": "documentType",
+    "arValue": "نوع المستند",
+    "isObject": false
+  },
+  {
+    "key": "type",
+    "arValue": "النوع",
+    "isObject": false
+  },
+  {
+    "key": "expiryDate",
+    "arValue": "تاريخ الانتهاء",
+    "isObject": false
+  },
+  {
+    "key": "expiresOn",
+    "arValue": "ينتهي في",
+    "isObject": false
+  },
+  {
+    "key": "noExpiringDocuments",
+    "arValue": "جميع المستندات حالية وصحيحة",
+    "isObject": false
+  },
+  {
+    "key": "viewAllAlerts",
+    "arValue": "عرض جميع التنبيهات",
+    "isObject": false
+  },
+  {
+    "key": "actionRequired",
+    "arValue": "إجراء مطلوب",
+    "isObject": false
+  },
+  {
+    "key": "recommendedDocuments",
+    "arValue": "المستندات الموصى بها",
+    "isObject": false
+  },
+  {
+    "key": "walletStats",
+    "arValue": "إحصائيات المحفظة",
+    "isObject": false
+  },
+  {
+    "key": "totalDocuments",
+    "arValue": "إجمالي المستندات",
+    "isObject": false
+  },
+  {
+    "key": "expiringDocuments",
+    "arValue": "المستندات المنتهية",
+    "isObject": false
+  },
+  {
+    "key": "complianceScore",
+    "arValue": "درجة التوافق",
+    "isObject": false
+  },
+  {
+    "key": "download",
+    "arValue": "تحميل",
+    "isObject": false
+  },
+  {
+    "key": "delete",
+    "arValue": "حذف",
+    "isObject": false
+  },
+  {
+    "key": "cancel",
+    "arValue": "إلغاء",
+    "isObject": false
+  },
+  {
+    "key": "upcomingExpiry",
+    "arValue": "انتهاء قادم",
+    "isObject": false
+  },
+  {
+    "key": "total",
+    "arValue": "الإجمالي",
+    "isObject": false
+  },
+  {
+    "key": "saudization",
+    "arValue": "التوطين",
+    "isObject": false
+  },
+  {
+    "key": "saveScenario",
+    "arValue": "حفظ هذا السيناريو",
+    "isObject": false
+  },
+  {
+    "key": "scenarioName",
+    "arValue": "اسم السيناريو (مثل: 'خطة الربع الأول 2025')",
+    "isObject": false
+  },
+  {
+    "key": "scenarioSaved",
+    "arValue": "تم حفظ السيناريو بنجاح",
+    "isObject": false
+  },
+  {
+    "key": "failedToSaveScenario",
+    "arValue": "فشل في حفظ السيناريو",
+    "isObject": false
+  },
+  {
+    "key": "saving",
+    "arValue": "جاري الحفظ...",
+    "isObject": false
+  },
+  {
+    "key": "scenarioDeleted",
+    "arValue": "تم حذف السيناريو بنجاح",
+    "isObject": false
+  },
+  {
+    "key": "savedScenarios",
+    "arValue": "السيناريوهات المحفوظة",
+    "isObject": false
+  },
+  {
+    "key": "pleaseEnterScenarioName",
+    "arValue": "يرجى إدخال اسم السيناريو",
+    "isObject": false
+  },
+  {
+    "key": "requestEmployeeLoan",
+    "arValue": "طلب قرض موظف",
+    "isObject": false
+  },
+  {
+    "key": "loanDetails",
+    "arValue": "تفاصيل القرض",
+    "isObject": false
+  },
+  {
+    "key": "enterLoanInformation",
+    "arValue": "أدخل تفاصيل طلب القرض الخاص بك",
+    "isObject": false
+  },
+  {
+    "key": "loanAmount",
+    "arValue": "مبلغ القرض",
+    "isObject": false
+  },
+  {
+    "key": "enterAmount",
+    "arValue": "أدخل المبلغ",
+    "isObject": false
+  },
+  {
+    "key": "maximumLoan",
+    "arValue": "الحد الأقصى للقرض (3x الراتب الشهري)",
+    "isObject": false
+  },
+  {
+    "key": "repaymentMonths",
+    "arValue": "فترة السداد",
+    "isObject": false
+  },
+  {
+    "key": "monthlyDeduction",
+    "arValue": "الخصم الشهري",
+    "isObject": false
+  },
+  {
+    "key": "months",
+    "arValue": "أشهر",
+    "isObject": false
+  },
+  {
+    "key": "loanPurpose",
+    "arValue": "غرض القرض",
+    "isObject": false
+  },
+  {
+    "key": "describeYourLoanNeed",
+    "arValue": "اشرح سبب احتياجك لهذا القرض",
+    "isObject": false
+  },
+  {
+    "key": "purpose",
+    "arValue": "الغرض",
+    "isObject": false
+  },
+  {
+    "key": "enterLoanPurpose",
+    "arValue": "مثال: نفقات طبية، تحسينات منزلية",
+    "isObject": false
+  },
+  {
+    "key": "additionalDetails",
+    "arValue": "تفاصيل إضافية",
+    "isObject": false
+  },
+  {
+    "key": "enterAdditionalDetails",
+    "arValue": "أضف أي معلومات إضافية...",
+    "isObject": false
+  },
+  {
+    "key": "submitLoanRequest",
+    "arValue": "تقديم طلب القرض",
+    "isObject": false
+  },
+  {
+    "key": "submitting",
+    "arValue": "جاري التقديم...",
+    "isObject": false
+  },
+  {
+    "key": "amountRequired",
+    "arValue": "مبلغ القرض مطلوب",
+    "isObject": false
+  },
+  {
+    "key": "amountMustBePositive",
+    "arValue": "يجب أن يكون المبلغ أكبر من 0",
+    "isObject": false
+  },
+  {
+    "key": "loanExceedsMaximum",
+    "arValue": "لا يمكن أن يتجاوز القرض {{max}}",
+    "isObject": false
+  },
+  {
+    "key": "purposeRequired",
+    "arValue": "غرض القرض مطلوب",
+    "isObject": false
+  },
+  {
+    "key": "purposeTooShort",
+    "arValue": "يجب أن يكون الغرض 5 أحرف على الأقل",
+    "isObject": false
+  },
+  {
+    "key": "invalidRepaymentPeriod",
+    "arValue": "يجب أن تكون فترة السداد بين 1 و 24 شهرًا",
+    "isObject": false
+  },
+  {
+    "key": "failedToSubmitLoanRequest",
+    "arValue": "فشل في تقديم طلب القرض",
+    "isObject": false
+  },
+  {
+    "key": "loanRequestSubmitted",
+    "arValue": "تم تقديم طلب القرض بنجاح",
+    "isObject": false
+  },
+  {
+    "key": "activeLoanDeductions",
+    "arValue": "خصومات القروض النشطة",
+    "isObject": false
+  },
+  {
+    "key": "activeLoans",
+    "arValue": "القروض النشطة",
+    "isObject": false
+  },
+  {
+    "key": "totalActive",
+    "arValue": "إجمالي المبلغ النشط",
+    "isObject": false
+  },
+  {
+    "key": "monthlyDeductions",
+    "arValue": "الخصومات الشهرية",
+    "isObject": false
+  },
+  {
+    "key": "monthly",
+    "arValue": "شهري",
+    "isObject": false
+  },
+  {
+    "key": "loanHistory",
+    "arValue": "سجل القروض",
+    "isObject": false
+  },
+  {
+    "key": "noLoans",
+    "arValue": "لا توجد قروض",
+    "isObject": false
+  },
+  {
+    "key": "youHaveNotRequestedAnyLoans",
+    "arValue": "لم تطلب أي قروض حتى الآن",
+    "isObject": false
+  },
+  {
+    "key": "pending",
+    "arValue": "قيد الانتظار",
+    "isObject": false
+  },
+  {
+    "key": "approved",
+    "arValue": "موافق عليه",
+    "isObject": false
+  },
+  {
+    "key": "rejected",
+    "arValue": "مرفوض",
+    "isObject": false
+  },
+  {
+    "key": "disbursed",
+    "arValue": "مصروف",
+    "isObject": false
+  },
+  {
+    "key": "completed",
+    "arValue": "مكتمل",
+    "isObject": false
+  },
+  {
+    "key": "employeeLoans",
+    "arValue": "قروض الموظفين",
+    "isObject": false
+  },
+  {
+    "key": "manageYourLoanRequests",
+    "arValue": "قدم وتتبع طلبات القروض الخاصة بك",
+    "isObject": false
+  },
+  {
+    "key": "employeeNotFound",
+    "arValue": "لم يتم العثور على سجل الموظف",
+    "isObject": false
+  },
+  {
+    "key": "export",
+    "arValue": "تصدير",
+    "isObject": false
+  },
+  {
+    "key": "exportFormat",
+    "arValue": "تنسيق التصدير",
+    "isObject": false
+  },
+  {
+    "key": "exportFailed",
+    "arValue": "فشل التصدير",
+    "isObject": false
+  },
+  {
+    "key": "csvFormat",
+    "arValue": "CSV (جدول بيانات)",
+    "isObject": false
+  },
+  {
+    "key": "jsonFormat",
+    "arValue": "JSON (بيانات)",
+    "isObject": false
+  },
+  {
+    "key": "excelFormat",
+    "arValue": "Excel",
+    "isObject": false
+  },
+  {
+    "key": "pdfFormat",
+    "arValue": "PDF وثيقة",
+    "isObject": false
+  },
+  {
+    "key": "filterRecords",
+    "arValue": "تصفية السجلات",
+    "isObject": false
+  },
+  {
+    "key": "searchEmployee",
+    "arValue": "البحث عن الموظف",
+    "isObject": false
+  },
+  {
+    "key": "enterEmployeeId",
+    "arValue": "أدخل رقم الموظف",
+    "isObject": false
+  },
+  {
+    "key": "month",
+    "arValue": "الشهر",
+    "isObject": false
+  },
+  {
+    "key": "year",
+    "arValue": "السنة",
+    "isObject": false
+  },
+  {
+    "key": "all",
+    "arValue": "الكل",
+    "isObject": false
+  },
+  {
+    "key": "summary",
+    "arValue": "ملخص",
+    "isObject": false
+  },
+  {
+    "key": "totalPayrollAmount",
+    "arValue": "إجمالي مبلغ الرواتب",
+    "isObject": false
+  },
+  {
+    "key": "totalBaseSalary",
+    "arValue": "إجمالي الراتب الأساسي",
+    "isObject": false
+  },
+  {
+    "key": "allowances",
+    "arValue": "البدلات",
+    "isObject": false
+  },
+  {
+    "key": "totalNetPay",
+    "arValue": "إجمالي صافي الأجر",
+    "isObject": false
+  },
+  {
+    "key": "payrollRecords",
+    "arValue": "سجلات الرواتب",
+    "isObject": false
+  },
+  {
+    "key": "processed",
+    "arValue": "معالج",
+    "isObject": false
+  },
+  {
+    "key": "paid",
+    "arValue": "مدفوع",
+    "isObject": false
+  },
+  {
+    "key": "payroll",
+    "arValue": "الرواتب",
+    "isObject": false
+  },
+  {
+    "key": "managePayroll",
+    "arValue": "عرض وتصدير سجلات الرواتب",
+    "isObject": false
+  },
+  {
+    "key": "employeeId",
+    "arValue": "رقم الموظف",
+    "isObject": false
+  },
+  {
+    "key": "baseSalary",
+    "arValue": "الراتب الأساسي",
+    "isObject": false
+  },
+  {
+    "key": "netPay",
+    "arValue": "صافي الأجر",
+    "isObject": false
+  },
+  {
+    "key": "notificationSettings",
+    "arValue": "إعدادات الإخطارات",
+    "isObject": false
+  },
+  {
+    "key": "emailNotifications",
+    "arValue": "إخطارات البريد الإلكتروني",
+    "isObject": false
+  },
+  {
+    "key": "smsNotifications",
+    "arValue": "إخطارات الرسائل النصية",
+    "isObject": false
+  },
+  {
+    "key": "enableNotifications",
+    "arValue": "تفعيل الإخطارات",
+    "isObject": false
+  },
+  {
+    "key": "notificationTypes",
+    "arValue": "أنواع الإخطارات",
+    "isObject": false
+  },
+  {
+    "key": "loanApprovedNotification",
+    "arValue": "موافقة القرض",
+    "isObject": false
+  },
+  {
+    "key": "loanRejectedNotification",
+    "arValue": "رفض القرض",
+    "isObject": false
+  },
+  {
+    "key": "attendanceNotification",
+    "arValue": "تنبيهات الحضور",
+    "isObject": false
+  },
+  {
+    "key": "payrollNotification",
+    "arValue": "إخطارات الرواتب",
+    "isObject": false
+  },
+  {
+    "key": "documentExpiryNotification",
+    "arValue": "تنبيهات انتهاء صلاحية المستندات",
+    "isObject": false
+  },
+  {
+    "key": "complianceNotification",
+    "arValue": "تنبيهات الامتثال",
+    "isObject": false
+  },
+  {
+    "key": "notificationsSaved",
+    "arValue": "تم حفظ تفضيلات الإخطارات",
+    "isObject": false
+  },
+  {
+    "key": "sendTestNotification",
+    "arValue": "إرسال إخطار اختبار",
+    "isObject": false
+  },
+  {
+    "key": "encryption",
+    "arValue": "التشفير",
+    "isObject": false
+  },
+  {
+    "key": "encryptionStatus",
+    "arValue": "حالة التشفير",
+    "isObject": false
+  },
+  {
+    "key": "secureDataHandling",
+    "arValue": "معالجة البيانات الآمنة",
+    "isObject": false
+  },
+  {
+    "key": "encryptedFields",
+    "arValue": "الحقول المشفرة",
+    "isObject": false
+  },
+  {
+    "key": "personalIdEncrypted",
+    "arValue": "معرف شخصي مشفر",
+    "isObject": false
+  },
+  {
+    "key": "bankAccountEncrypted",
+    "arValue": "حساب بنكي مشفر",
+    "isObject": false
+  },
+  {
+    "key": "salaryEncrypted",
+    "arValue": "الراتب مشفر",
+    "isObject": false
+  },
+  {
+    "key": "documentUrlEncrypted",
+    "arValue": "روابط المستندات مشفرة",
+    "isObject": false
+  },
+  {
+    "key": "encryptionActive",
+    "arValue": "✓ التشفير نشط",
+    "isObject": false
+  },
+  {
+    "key": "encryptionKey",
+    "arValue": "مفتاح التشفير",
+    "isObject": false
+  },
+  {
+    "key": "secureDisplay",
+    "arValue": "عرض آمن (مخفي)",
+    "isObject": false
+  },
+  {
+    "key": "companyOverview",
+    "arValue": "نظرة عامة على الشركة والإحصائيات",
+    "isObject": false
+  },
+  {
+    "key": "myDashboard",
+    "arValue": "لوحتي",
+    "isObject": false
+  },
+  {
+    "key": "employeeOverview",
+    "arValue": "لوحة تحكمك الشخصية",
+    "isObject": false
+  },
+  {
+    "key": "attendanceRate",
+    "arValue": "معدل الحضور",
+    "isObject": false
+  },
+  {
+    "key": "totalLoans",
+    "arValue": "إجمالي القروض",
+    "isObject": false
+  },
+  {
+    "key": "documents",
+    "arValue": "المستندات",
+    "isObject": false
+  },
+  {
+    "key": "averageSalary",
+    "arValue": "متوسط الراتب",
+    "isObject": false
+  },
+  {
+    "key": "activeEmployees",
+    "arValue": "الموظفون النشطون",
+    "isObject": false
+  },
+  {
+    "key": "inactiveEmployees",
+    "arValue": "الموظفون غير النشطين",
+    "isObject": false
+  },
+  {
+    "key": "employeeComposition",
+    "arValue": "تركيبة الموظفين",
+    "isObject": false
+  },
+  {
+    "key": "saudi",
+    "arValue": "سعودي",
+    "isObject": false
+  },
+  {
+    "key": "expat",
+    "arValue": "وافد",
+    "isObject": false
+  },
+  {
+    "key": "saudizationTarget",
+    "arValue": "هدف التوطين",
+    "isObject": false
+  },
+  {
+    "key": "current",
+    "arValue": "الحالي",
+    "isObject": false
+  },
+  {
+    "key": "target",
+    "arValue": "الهدف",
+    "isObject": false
+  },
+  {
+    "key": "employeeStatus",
+    "arValue": "حالة الموظف",
+    "isObject": false
+  },
+  {
+    "key": "companyMetrics",
+    "arValue": "مقاييس الشركة",
+    "isObject": false
+  },
+  {
+    "key": "totalDepartments",
+    "arValue": "إجمالي الأقسام",
+    "isObject": false
+  },
+  {
+    "key": "totalPayroll",
+    "arValue": "إجمالي الرواتب",
+    "isObject": false
+  },
+  {
+    "key": "attendanceBreakdown",
+    "arValue": "تفصيل الحضور",
+    "isObject": false
+  },
+  {
+    "key": "present",
+    "arValue": "حاضر",
+    "isObject": false
+  },
+  {
+    "key": "absent",
+    "arValue": "غائب",
+    "isObject": false
+  },
+  {
+    "key": "late",
+    "arValue": "متأخر",
+    "isObject": false
+  },
+  {
+    "key": "attendanceProgress",
+    "arValue": "تقدم الحضور",
+    "isObject": false
+  },
+  {
+    "key": "rate",
+    "arValue": "المعدل",
+    "isObject": false
+  },
+  {
+    "key": "documentStatus",
+    "arValue": "حالة المستند",
+    "isObject": false
+  },
+  {
+    "key": "upToDate",
+    "arValue": "محدث",
+    "isObject": false
+  },
+  {
+    "key": "expiring",
+    "arValue": "ينتهي قريباً",
+    "isObject": false
+  },
+  {
+    "key": "days",
+    "arValue": "أيام",
+    "isObject": false
+  },
+  {
+    "key": "completedLoans",
+    "arValue": "القروض المكتملة",
+    "isObject": false
+  },
+  {
+    "key": "totalAttendanceDays",
+    "arValue": "إجمالي أيام الحضور",
+    "isObject": false
+  },
+  {
+    "key": "saudizationPercentage",
+    "arValue": "نسبة التوطين",
+    "isObject": false
+  },
+  {
+    "key": "average",
+    "arValue": "المتوسط",
+    "isObject": false
+  },
+  {
+    "key": "clientStatus",
+    "arValue": "حالة العميل",
+    "isObject": false
+  },
+  {
+    "key": "companyStatus",
+    "arValue": "حالة الشركة",
+    "isObject": false
+  },
+  {
+    "key": "requestStatus",
+    "arValue": "حالة الطلب",
+    "isObject": false
+  },
+  {
+    "key": "payrollSummary",
+    "arValue": "ملخص الرواتب",
+    "isObject": false
+  }
+]

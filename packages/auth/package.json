@@ -1,0 +1,25 @@
+{
+  "name": "@intilaqa/auth",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./auth": "./src/auth.ts",
+    "./guards": "./src/guards.ts"
+  },
+  "dependencies": {
+    "@intilaqa/db": "workspace:*",
+    "@intilaqa/shared": "workspace:*",
+    "next": "^15.1.6",
+    "next-auth": "5.0.0-beta.25",
+    "@auth/prisma-adapter": "^2.4.2",
+    "bcryptjs": "^2.4.3"
+  },
+  "devDependencies": {
+    "@intilaqa/tsconfig": "workspace:*",
+    "@types/bcryptjs": "^2.4.6",
+    "typescript": "^5.7.3"
+  }
+}

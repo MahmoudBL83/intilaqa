@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Primary - Soft Mint */
+    --color-primary: 58 103 88;
+    --color-primary-50: 237 245 241;
+    --color-primary-100: 209 230 221;
+    --color-primary-200: 161 209 191;
+    --color-primary-300: 113 188 161;
+    --color-primary-400: 80 147 125;
+    --color-primary-500: 58 103 88;
+    --color-primary-600: 46 82 70;
+    --color-primary-700: 35 62 53;
+    --color-primary-800: 23 41 35;
+    --color-primary-900: 12 21 18;
+    --color-primary-950: 6 10 9;
+
+    /* Secondary - Light Sage */
+    --color-secondary: 76 100 79;
+    --color-secondary-50: 240 245 240;
+    --color-secondary-100: 210 225 211;
+    --color-secondary-500: 76 100 79;
+    --color-secondary-600: 61 80 63;
+    --color-secondary-700: 46 60 47;
+
+    /* Success */
+    --color-success: 34 139 34;
+    --color-success-50: 240 248 240;
+    --color-success-100: 200 235 200;
+    --color-success-500: 34 139 34;
+    --color-success-600: 27 111 27;
+    --color-success-700: 20 83 20;
+
+    /* Warning */
+    --color-warning: 217 119 6;
+    --color-warning-50: 255 251 235;
+    --color-warning-100: 254 237 178;
+    --color-warning-500: 217 119 6;
+    --color-warning-600: 180 101 5;
+    --color-warning-700: 143 79 4;
+
+    /* Surface */
+    --color-surface: 252 249 243;
+    --color-surface-dim: 240 238 232;
+    --color-surface-bright: 255 255 255;
+    --color-surface-container: 245 242 236;
+    --color-surface-container-low: 248 246 240;
+    --color-surface-container-lowest: 255 255 255;
+    --color-surface-container-high: 240 238 232;
+    --color-surface-container-highest: 235 233 227;
+
+    /* On Surface */
+    --color-on-surface: 28 28 24;
+    --color-on-surface-variant: 75 75 69;
+
+    /* Error */
+    --color-error: 186 26 26;
+    --color-error-container: 255 218 218;
+    --color-on-error: 255 255 255;
+    --color-on-error-container: 120 18 18;
+
+    /* Outline */
+    --color-outline: 120 120 112;
+    --color-outline-variant: 200 200 192;
+
+    /* Background / Foreground */
+    --color-background: 252 249 243;
+    --color-foreground: 28 28 24;
+
+    /* Radii */
+    --radius-sm: 8px;
+    --radius-default: 12px;
+    --radius-md: 16px;
+    --radius-lg: 20px;
+    --radius-xl: 24px;
+    --radius-full: 9999px;
+
+    /* Fonts */
+    --font-manrope: 'Manrope', sans-serif;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html[dir="rtl"] {
+    direction: rtl;
+  }
+
+  html[dir="ltr"] {
+    direction: ltr;
+  }
+}
+
+@layer components {
+  .bg-mesh {
+    background-color: #fcf9f3;
+    background-image:
+      radial-gradient(at 10% 10%, rgba(161, 209, 191, 0.25) 0px, transparent 50%),
+      radial-gradient(at 90% 10%, rgba(206, 234, 207, 0.3) 0px, transparent 50%),
+      radial-gradient(at 80% 90%, rgba(188, 237, 218, 0.2) 0px, transparent 50%),
+      radial-gradient(at 20% 80%, rgba(240, 238, 232, 0.5) 0px, transparent 50%),
+      radial-gradient(at 50% 50%, rgba(255, 255, 255, 0.4) 0px, transparent 50%);
+    background-attachment: fixed;
+  }
+
+  .glass-panel {
+    background: rgba(255, 255, 255, 0.55);
+    backdrop-filter: blur(24px) saturate(180%);
+    -webkit-backdrop-filter: blur(24px) saturate(180%);
+    border: 0.5px solid rgba(255, 255, 255, 0.4);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.03);
+  }
+
+  .floating-glass {
+    background: rgba(255, 255, 255, 0.65);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 0.5px solid rgba(255, 255, 255, 0.5);
+    box-shadow:
+      0 4px 16px -1px rgba(0, 0, 0, 0.04),
+      inset 0 1px 1px 0 rgba(255, 255, 255, 0.8);
+    transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .floating-glass:hover {
+    transform: translateY(-2px);
+    box-shadow:
+      0 12px 24px -2px rgba(0, 0, 0, 0.06),
+      inset 0 1px 1px 0 rgba(255, 255, 255, 1);
+  }
+
+  .glass-panel {
+    transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .nav-item-active {
+    position: relative;
+  }
+
+  .nav-item-active::after {
+    content: "";
+    position: absolute;
+    inset-inline-start: 0;
+    top: 25%;
+    height: 50%;
+    width: 3px;
+    background-color: currentColor;
+    border-radius: 0 4px 4px 0;
+  }
+}
+
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.08); border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(0,0,0,0.15); }
