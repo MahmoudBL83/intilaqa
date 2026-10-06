@@ -26,7 +26,7 @@ Intilaqa is a bilingual HRMS platform for managing the relationship between admi
 
 ### Requirements
 
-- Node.js 20 or newer
+- Node.js 22 or newer
 - pnpm 11 or newer
 - PostgreSQL 14 or newer
 
